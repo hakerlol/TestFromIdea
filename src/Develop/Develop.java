@@ -13,4 +13,8 @@ public class Develop {
     public void setString(String string) {
         this.string = string;
     }
+
+    public void createDeveloper(){
+        System.out.println("I'm a new developer");
+    }
 }
